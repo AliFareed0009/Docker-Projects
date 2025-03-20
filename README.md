@@ -9,6 +9,6 @@ Each project is designed to help you sharpen your problem-solving skills and rei
 
 #### 
 
-| Programs | Useages & Description   |
+| Projects |  Description   |
 | :-------- | :-------------------------------- |
-|  | |
+| react-web-app | A simple React Static App hosted by nginx |
