@@ -11,4 +11,6 @@ Each project is designed to help you sharpen your problem-solving skills and rei
 
 | Projects |  Description   |
 | :-------- | :-------------------------------- |
-| react-web-app | A simple React Static App hosted by nginx |
+| React-Web-App | A simple React Static App hosted by nginx |
+| Django-Notes-App | A simple Django Notes Web App hosted by nginx which uses MySQL for database |
+| Expense-Tracker-App | An Expense Tracker App made with Java, Springboot and uses MySQL as database |
